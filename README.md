@@ -8,5 +8,5 @@
 |17th, Jan|TBA|[Unit 2 - Basic Gameplay](https://learn.unity.com/project/unit-2-basic-gameplay?uv=2018.4&courseId=5cf96c41edbc2a2ca6e8810f)|
 |26th, Jan|TBA|[Unit 4 - Player Control](https://learn.unity.com/project/unit-4-gameplay-mechanics?uv=2018.4&courseId=5cf96c41edbc2a2ca6e8810f)|
 
-##### Contact: <ashley05190519@gmail.com>
+##### For typos or incorrect information, please pull request.
 ##### Created with 💜 from [Minjae Jo](https://github.com/minjaeingithub)
