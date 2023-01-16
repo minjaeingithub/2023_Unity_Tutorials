@@ -7,8 +7,28 @@
 - Instantiate/Destroy prefabs
 - Randomize numbers
 - Implement collisions
+<br/>
 
-<br/><br/>
+## **🖥 Code Explanation**
+
+- Codes for `tutorial + bonus`:
+  - DestroyOutOfBound.cs
+  - DetectCollisions.cs
+  - GameManager.cs
+  - MoveForward.cs
+  - PlayerController.cs
+  - Projectile.cs
+  - SliderBar.cs
+  - SpawnManager.cs
+
+
+- Codes for `challenge`:
+  - DestroyOutOfBoundX.cs
+  - DetectCollisionsX.cs
+  - MoveForwardX.cs
+  - PlayerControllerX.cs
+  - SpawnManagerX.cs
+<br/>
 
 ## **🐝 Main Topics I shared through Challenge/Bonus tutorial**
 
@@ -16,7 +36,7 @@
 - Coroutine
 - GameManager & Singleton Pattern
 
-<br/><br/>
+<br/>
 
 ## **🐰 Final Comment**
 
