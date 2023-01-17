@@ -40,7 +40,7 @@
 
 ## **🐰 Final Comment**
 
-Done with Week 2! We are under time pressure, so main topics were sorted out, regarding my standards hehe. Sorry. 
+Done with Week 2! We are under time pressure, so main topics were sorted out, ONLY regarding my standards hehe. Sorry. 
 
 I tried to tap into those that could be useful when making psychological experiment.
 
