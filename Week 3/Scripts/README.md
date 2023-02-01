@@ -12,6 +12,7 @@
 
 ## **🎪 Main Topics I shared through Challenge/Bonus tutorial**
 
+- Concepts from Physics
 - Coroutine
 - OOP
 - Generic
